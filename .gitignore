@@ -1,0 +1,10 @@
+# Folders to ignore
+elm-stuff
+node_modules
+dist
+public
+
+# MacOS weird stuff
+.DS_Store
+#figma-export-icons
+icons-config.json
